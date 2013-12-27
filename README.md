@@ -1,13 +1,15 @@
 # Team Rory
 An awesome hackathon team. We dedicated our team name to Rory Pettingill.
 
-## Core Team Members
+## Team
+
+### Core Members
 * [Jeff Novich](https://twitter.com/jeffnovich)
 * [Toby Matejovsky](https://twitter.com/tobym)
 * [Andrew Pinzler](https://twitter.com/pinzler)
 * [Kennedy](https://twitter.com/kennedysgarage)
 
-## Alternate Team Members
+### Alternate Members
 * [Janan Rajeevikaran](https://twitter.com/JananR)
 * [Paul Orlando](https://twitter.com/porlando)
 * [Roman Sharf](https://twitter.com/pencilking2002)
@@ -34,6 +36,7 @@ An awesome hackathon team. We dedicated our team name to Rory Pettingill.
 * [Backstage With The Disrupt NYC Hackathon Winners: Thingscription, PoachBase, & PractiKhan](http://techcrunch.com/2012/05/20/backstage-with-the-disrupt-nyc-hackathon-winners-thingscription-poachbase-practikhan/)
 * [TechCrunch Disrupt Hackathon #win - that makes 5 in a row!](http://planetjeffro.com/post/23607666826/techcrunch-disrupt-hackathon-win-that-makes-5-in-a)
 
+<hr/>
 <hr/>
 <hr/>
 
